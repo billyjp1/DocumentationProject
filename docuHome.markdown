@@ -15,7 +15,7 @@ Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
 
 # Getting Started
 <p align="center">
-	<img src="./images/grhome.png" alt="Home screen for Ghost Recon">
+	<img src="images/grhome.png" alt="Home screen for Ghost Recon">
 </p>
 First thing you would want to do is open the options and change settings such as graphics and sound 
 accordingly, then take a look at the input section and change keybinds as you see fit as I found the 
