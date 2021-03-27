@@ -15,7 +15,7 @@ Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
 
 # Getting Started
 <p align="center">
-	<img src="/images/grhome.png" alt="Home screen for Ghost Recon">
+	<img src="./images/grhome.png" alt="Home screen for Ghost Recon">
 </p>
 First thing you would want to do is open the options and change settings such as graphics and sound 
 accordingly, then take a look at the input section and change keybinds as you see fit as I found the 
@@ -27,8 +27,8 @@ will be mentioned again later. Adjust settings again during this time making sur
 
 ### Mission Briefing
 <p float="center">
-	<img src="/images/grworld.png" alt="First Mission briefing screen, world map" width="475">
-	<img src="/images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
+	<img src="./images/grworld.png" alt="First Mission briefing screen, world map" width="475">
+	<img src="./images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
 </p>
 After completing the training section go back to the main menu and select campaign and create a new campaign, 
 I would recommend starting with veteren difficulty to provide a challenge while still being very doable. You 
@@ -38,7 +38,7 @@ this section as special requirements for the mission may be mentioned such as ne
 
 ### Platoon Setup
 <p align="center">
-	<img src="/images/grsquadsetup.png" alt="Image highlighting each section of the platoon set up page" width=750>
+	<img src="./images/grsquadsetup.png" alt="Image highlighting each section of the platoon set up page" width=750>
 </p>
 Once you are done reading or listening to the mission briefing click the arrow in the bottom right to continue
 to the platoon setup page. Here you will assemble your team of up to 6 soldiers for the next mission. There
@@ -74,7 +74,7 @@ Once you have created a platoon pressing the error in the bottom right will star
 
 ### In Game Heads Up Display
 <p align="center">
-	<img src="/images/gringame1.png" alt="Image showing heads up dispaly in game" width=1000>
+	<img src="./images/gringame1.png" alt="Image showing heads up dispaly in game" width=1000>
 </p>
 Loading into the mission you will be presented with your heads up display (HUD) with information about the current unit you 
 are controlling. In the bottom left is the name of the unit, their ***stance*** (Standing, crouching, prone), their ***status*** (Healthy, 
@@ -87,8 +87,8 @@ mode (depending on weapon can be semi, burst, or full auto) is displayed in the 
 
 ### In Game Menus
 <p float="center">
-	<img src="/images/grstats.png" alt="Menu displaying the status of each unit" width="475">
-	<img src="/images/grcmdmap.png" alt="Map of the play area, with location of each unit and objective" width="475">
+	<img src="./images/grstats.png" alt="Menu displaying the status of each unit" width="475">
+	<img src="./images/grcmdmap.png" alt="Map of the play area, with location of each unit and objective" width="475">
 </p>
 By opening up stat mode (left) using your assigned key binding you are presented with this menu, showing every unit and 
 all their information as gone over before. By clicking on a unit you will take control of them, signified by them being
@@ -101,7 +101,7 @@ the map, and then select where you would like for them to move.
 
 ### Command Menu Options
 <p align="center">
-	<img src="/images/grroemove1.png" alt="Command map depicting each type of movement command and rule of engagement" width=1000>
+	<img src="./images/grroemove1.png" alt="Command map depicting each type of movement command and rule of engagement" width=1000>
 </p>
 In  addition to selecting where you want units to move you can also select the manner in which they do so. Next to each squad's 
 corresponding letter on the left are 2 additional icons, the top one represents movement and the bottom represents rules of 
@@ -117,7 +117,7 @@ And for rules of engagement these are
 3. Recon: squad will not shoot at enemies unless they are fired upon first.
 
 <p align="center">
-	<img src="/images/grenemymap1.png" alt="Command map with an enemy appearing on it" width=1000>
+	<img src="./images/grenemymap1.png" alt="Command map with an enemy appearing on it" width=1000>
 </p>
 Enemies that have been spotted by a friendly unit will show up on the command map as a bright red diamond, but if not seen 
 recently will fade away until seen again. This goes for any unit in your platoon, not just the one you control so it is 
@@ -125,7 +125,7 @@ helpful to alway look at the command map to locate enemy positions.
 
 ### Pause Menu
 <p align="center">
-	<img src="/images/grpause1.png" alt="Pause menu with objectives" width=1000>
+	<img src="./images/grpause1.png" alt="Pause menu with objectives" width=1000>
 </p>
 If you ever need to remember what objectives you need to complete you can press the escape key to pause the game and view them, 
 from this menu you may also save the game, change options, or restart/exit the mission.
