@@ -15,7 +15,7 @@ Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
 
 # Getting Started
 <p align="center">
-	<img src="images/grhome.png" alt="Home screen for Ghost Recon" />
+	<img src="../images/grhome.png" alt="Home screen for Ghost Recon" />
 </p>
 First thing you would want to do is open the options and change settings such as graphics and sound 
 accordingly, then take a look at the input section and change keybinds as you see fit as I found the 
@@ -27,8 +27,8 @@ will be mentioned again later. Adjust settings again during this time making sur
 
 ### Mission Briefing
 <p float="center">
-	<img src="./images/grworld.png" alt="First Mission briefing screen, world map" width="475">
-	<img src="./images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
+	<img src="../images/grworld.png" alt="First Mission briefing screen, world map" width="475">
+	<img src="../images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
 </p>
 After completing the training section go back to the main menu and select campaign and create a new campaign, 
 I would recommend starting with veteren difficulty to provide a challenge while still being very doable. You 
