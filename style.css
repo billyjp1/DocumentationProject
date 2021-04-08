@@ -1,6 +1,6 @@
 .sidenav {
   height: 100%; /* 100% Full-height */
-  width: 30%; /* 0 width - change this with JavaScript */
+  width: 270px; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -16,9 +16,9 @@
   font-size: 25px;
   color: #818181;
   display: block;
-  transition: 0.3s;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
-.cur {
+a.cur {
 	color: #b5e853;
 }

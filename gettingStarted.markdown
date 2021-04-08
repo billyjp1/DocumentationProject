@@ -3,6 +3,17 @@ layout: default
 title: Documentation Project
 permalink: "/getting_started/"
 ---
+<link href="../style.css" rel="stylesheet">
+<div id="sideBar" class="sidenav">
+	<a href="../home" class="cur">Home</a>
+	<a href="../getting_started">Getting Started</a>
+	<a href="../mission">First Mission</a>
+		<ul>
+			<a href="#mBrief">Mission Briefing</a>
+			<a href="#pSetup">Platoon Setup</a>
+		</ul>
+	<a href="../faq">FAQ and Support</a>
+</div>
 
 # Getting Started
 <p align="center">

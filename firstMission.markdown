@@ -3,10 +3,20 @@ layout: default
 title: Documentation Project
 permalink: "/mission/"
 ---
-
+<link href="../style.css" rel="stylesheet">
+<div id="sideBar" class="sidenav">
+	<a href="../home" class="cur">Home</a>
+	<a href="../getting_started">Getting Started</a>
+	<a href="../mission">First Mission</a>
+		<ul>
+			<a href="#mBrief">Mission Briefing</a>
+			<a href="#pSetup">Platoon Setup</a>
+		</ul>
+	<a href="../faq">FAQ and Support</a>
+</div>
 # Playing your First Mission
 
-### Mission Briefing
+### Mission Briefing {#mBrief}
 <p float="center">
 	<img src="../images/grworld.png" alt="First Mission briefing screen, world map" width="475">
 	<img src="../images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
@@ -17,7 +27,7 @@ will then be greeted by the mission briefing screen, this screen shows up before
 the context for what you are doing and providing the objectives you will need to complete. Pay attention in 
 this section as special requirements for the mission may be mentioned such as needing anti-tank rockets or demolition charges.
 
-### Platoon Setup
+### Platoon Setup {#mBrief}
 <p align="center">
 	<img src="../images/grsquadsetup.png" alt="Image highlighting each section of the platoon set up page" width=750>
 </p>

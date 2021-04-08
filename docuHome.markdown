@@ -8,6 +8,10 @@ permalink: "/home/"
 	<a href="../home" class="cur">Home</a>
 	<a href="../getting_started">Getting Started</a>
 	<a href="../mission">First Mission</a>
+		<ul>
+			<a href="#mBrief">Mission Briefing</a>
+			<a href="#pSetup">Platoon Setup</a>
+		</ul>
 	<a href="../faq">FAQ and Support</a>
 </div>
 # Introduction
