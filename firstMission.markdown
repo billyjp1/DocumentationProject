@@ -1,37 +1,8 @@
 ---
 layout: default
 title: Documentation Project
-permalink: "/home/"
+permalink: "/mission/"
 ---
-<link href="style.css" rel="stylesheet"></link> 
-<div id="sideBar" class="sidenav">
-	<a href="./home">Home</a>
-	<a href="./getting_started">Getting Started</a>
-	<a href="./mission">First Mission</a>
-	<a href="./faq">FAQ and Support</a>
-</div>
-# Introduction
-Tom Clancy's Ghost Recon is a tactical first person shooter game released in 2001 by developer 
-Red Storm Entertainment. In each mission you create your squad of 6 soldiers and using cunning 
-strategies attempt to defeat the enemy forces and accomplish other objectives. This guide is intended 
-to give you a brief introduction to the campaign mode of the game and some of its systems so that 
-you may be able to understand it.
-
-# Installation
-Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
-### Requirements
-
-
-# Getting Started
-<p align="center">
-	<img src="../images/grhome.png" alt="Home screen for Ghost Recon" />
-</p>
-First you should open the options and change settings such as graphics and sound 
-accordingly, then take a look at the input section and change keybinds as you see fit. 
-
-Once you have the settings to your liking go back to the main 
-menu and continue to the training section which will walk you through the basics of the game that 
-will be mentioned again later. Adjust settings again during this time making sure that they make sense to you. 
 
 # Playing your First Mission
 
@@ -139,27 +110,3 @@ helpful to alway look at the command map to locate enemy positions.
 </p>
 If you ever need to remember what objectives you need to complete you can press the escape key to pause the game and view them, 
 from this menu you may also save the game, change options, or restart/exit the mission.
-
-# Frequently Asked Questions
-#### Q: Why does my screen get really small when launching the game?
-- The game launches in a fixed resolution so will be to small for most modern day monitors, however this is fixed once you're actually in game
-assuming you have selected the correct resolution in the options menu.
-
-#### Q: Why do I keep getting killed?
-- You're basically dead to 1 shot in game, so you should take it slow and make sure that you keep moving your teams so that they are in
-advantageous positions. This is not a game you can speed through and it pays to make smart decisions on when to fight.
-
-#### Q: How should I stop my team members from getting killed?
-- By making use of the quick save and quick load keys (F5 and F7) you can save before making choices that may cost you your units. It should
-be noted to be careful because quick saving at the wrong time may mean the only way to save a unit is restart the entire mission.
-
-#### Q: I beat the last mission, is there any more?
-- There are 2 DLCs for the game which can be purchased aswell as the multiplayer mode. There are also free mods for the game that greatly 
-expand the game such as Heroes Unleashed.
-
-# Support 
-For additional help consult the game manual located [here](https://cdn.cloudflare.steamstatic.com/steam/apps/15300/manuals/manual_english.pdf?t=1447351361).
-
-# Licensing
-© 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
-is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
