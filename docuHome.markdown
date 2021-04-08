@@ -3,6 +3,7 @@ layout: default
 title: Documentation Project
 permalink: "/home/"
 ---
+# Test
 # Introduction
 Tom Clancy's Ghost Recon is a tactical first person shooter game released in 2001 by developer 
 Red Storm Entertainment. In each mission you create your squad of 6 soldiers and using cunning 
