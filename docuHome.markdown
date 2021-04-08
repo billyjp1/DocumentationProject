@@ -3,12 +3,12 @@ layout: default
 title: Documentation Project
 permalink: "/home/"
 ---
-<link href="style.css" rel="stylesheet"></link> 
+<link href="../style.css" rel="stylesheet">
 <div id="sideBar" class="sidenav">
-	<a href="./home">Home</a>
-	<a href="./getting_started">Getting Started</a>
-	<a href="./mission">First Mission</a>
-	<a href="./faq">FAQ and Support</a>
+	<a href="../home" class="cur">Home</a>
+	<a href="../getting_started">Getting Started</a>
+	<a href="../mission">First Mission</a>
+	<a href="../faq">FAQ and Support</a>
 </div>
 # Introduction
 Tom Clancy's Ghost Recon is a tactical first person shooter game released in 2001 by developer 
@@ -20,7 +20,9 @@ you may be able to understand it.
 # Installation
 Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
 ### Requirements
-
+Windows Operating System
+128 MB of Memory
+1 GB Hard Drive Space
 
 # Getting Started
 <p align="center">

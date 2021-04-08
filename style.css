@@ -18,3 +18,7 @@
   display: block;
   transition: 0.3s;
 }
+
+.cur {
+	color: #b5e853;
+}
