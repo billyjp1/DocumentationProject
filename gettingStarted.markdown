@@ -18,12 +18,12 @@ permalink: "/getting_started/"
 <p align="center">
 	<img src="../images/grhome.png" alt="Home screen for Ghost Recon" />
 </p>
-First you should open the options and change settings such as graphics and sound 
+Upon first launching the game you should open the options and change settings such as graphics and sound 
 accordingly, then take a look at the input section and change keybinds as you see fit. 
 
 Once you have the settings to your liking go back to the main 
 menu and continue to the training section which will walk you through the basics of the game. 
-Adjust settings again during this time ensuring that they make sense.
+Adjust settings again during this time ensuring that they are intuitive.
 After completing the training, exit the mission to return to the main menu.
 
 <br>

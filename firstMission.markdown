@@ -29,7 +29,7 @@ permalink: "/mission/"
 	<img src="../images/grworld.png" alt="First Mission briefing screen, world map" width="475">
 	<img src="../images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
 </p>
-Once on the main menu select campaign and create a new campaign, 
+Once on the main menu select campaign and create a new campaign.  
 It's recommended starting with veteren difficulty to provide a challenge while still being very doable.
 However if you are inexperienced in this genre of game you may want to start off on recruit difficulty.  
 
@@ -138,7 +138,7 @@ helpful to alway look at the command map to locate enemy positions.
 <p align="center">
 	<img src="../images/grpause1.png" alt="Pause menu with objectives" width=1000>
 </p>
-If you ever need to remember what objectives you need to complete you can press the escape key to pause the game and view them, 
+You can review what objectives you need to complete by pressing the escape key to pause the game and view them, 
 from this menu you may also save the game, change options, or restart/exit the mission.
 
 <br>

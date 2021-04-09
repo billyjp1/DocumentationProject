@@ -25,15 +25,19 @@ strategies attempt to defeat the enemy forces and accomplish other objectives.
 This guide is intended to give you a brief introduction to the campaign mode of the game and 
 some of its systems so that you may be able to understand it.
 
+<br>
 ### Installation
 Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.  
 After selecting your preferred retailer purchase the game, currently priced at $9.99. You may want to
 watch out for Ubisoft sale events where the game may receive a discounted price.
+
+<br>
 ### Requirements
 Windows Operating System 2000/XP and later
 128 MB of Memory  
 1 GB Hard Drive Space  
 
+<br>
 ## Licensing
 © 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
 is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
