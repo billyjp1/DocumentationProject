@@ -18,8 +18,9 @@ First you should open the options and change settings such as graphics and sound
 accordingly, then take a look at the input section and change keybinds as you see fit. 
 
 Once you have the settings to your liking go back to the main 
-menu and continue to the training section which will walk you through the basics of the game that 
-will be mentioned again later. Adjust settings again during this time making sure that they make sense to you. 
+menu and continue to the training section which will walk you through the basics of the game. 
+Adjust settings again during this time ensuring that they make sense.
+After completing the training exit the mission to return to the main menu.
 
 <br>
 ## Licensing
