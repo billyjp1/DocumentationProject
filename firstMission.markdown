@@ -5,7 +5,7 @@ permalink: "/mission/"
 ---
 <link href="../style.css" rel="stylesheet">
 <div id="sideBar" class="sidenav">
-	<a href="../home">Home</a>
+	<a href="../home">Introduction</a>
 	<a href="../getting_started">Getting Started</a>
 	<a href="../mission" class="cur">First Mission</a>
 		<ul>
@@ -18,7 +18,6 @@ permalink: "/mission/"
 		</ul>
 	<a href="../faq">FAQ and Support</a>
 </div>
-<div class="main">
 # Playing your First Mission
 
 ### Mission Briefing {#mBrief}
@@ -130,4 +129,3 @@ from this menu you may also save the game, change options, or restart/exit the m
 ## Licensing
 © 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
 is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
-</div>
