@@ -8,7 +8,7 @@ permalink: "/home/"
 	<p align="center">
 		<img src="../images/ghostreconlogo.png" alt="Ghost Recon logo">
 	</p>
-	<h1><u>Navigation</u></h1>
+	<h1><u>Contents</u></h1>
 	<a href="../home" class="cur">Introduction</a>
 	<a href="../getting_started">Getting Started</a>
 	<a href="../mission">First Mission</a>
@@ -20,9 +20,10 @@ permalink: "/home/"
 # Introduction
 Tom Clancy's Ghost Recon is a tactical first person shooter game released in 2001 by developer 
 Red Storm Entertainment. In each mission you create your squad of 6 soldiers and using cunning 
-strategies attempt to defeat the enemy forces and accomplish other objectives. This guide is intended 
-to give you a brief introduction to the campaign mode of the game and some of its systems so that 
-you may be able to understand it.
+strategies attempt to defeat the enemy forces and accomplish other objectives.  
+
+This guide is intended to give you a brief introduction to the campaign mode of the game and 
+some of its systems so that you may be able to understand it.
 
 ### Installation
 Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.  
