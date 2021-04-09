@@ -13,7 +13,7 @@ permalink: "/faq/"
 </div>
 # Frequently Asked Questions
 #### Q: Why does my screen get really small when launching the game?
-- The game launches in a fixed resolution so will be to small for most modern day monitors, however this is fixed once you're actually in game
+- The game launches in a fixed resolution so it will be too small for most modern day monitors, however this is fixed once you're actually in game
 assuming you have selected the correct resolution in the options menu.
 
 #### Q: Why do I keep getting killed?
@@ -21,12 +21,13 @@ assuming you have selected the correct resolution in the options menu.
 advantageous positions. This is not a game you can speed through and it pays to make smart decisions on when to fight.
 
 #### Q: How should I stop my team members from getting killed?
-- By making use of the quick save and quick load keys (F5 and F7) you can save before making choices that may cost you your units. It should
-be noted to be careful because quick saving at the wrong time may mean the only way to save a unit is restart the entire mission.
+- By making use of the quick save and quick load keys (F5 and F7) you can save before making choices that may cost you or your units. Be
+careful using of using quick save at the wrong time as you may get caught loading into unfavorable situtaions where the only way out is restarting
+the mission from the beginning.
 
 #### Q: I beat the last mission, is there any more?
-- There are 2 DLCs for the game which can be purchased aswell as the multiplayer mode. There are also free mods for the game that greatly 
-expand the game such as Heroes Unleashed.
+- There are 2 DLCs for the game which can be purchased aswell as the multiplayer mode which comes witht the base game. There are also free mods for the game that greatly 
+expand on it such as Heroes Unleashed.
 
 # Support 
 For additional help consult the game manual located [here](https://cdn.cloudflare.steamstatic.com/steam/apps/15300/manuals/manual_english.pdf?t=1447351361).
