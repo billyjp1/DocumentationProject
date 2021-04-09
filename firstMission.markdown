@@ -26,14 +26,14 @@ permalink: "/mission/"
 	<img src="../images/grmap.png" alt="First Mission briefing screen, mission map" width="475">
 </p>
 Once on the main menu select campaign and create a new campaign, 
-Its recommended starting with veteren difficulty to provide a challenge while still being very doable.
+It's recommended starting with veteren difficulty to provide a challenge while still being very doable.
 However if you are inexperienced in this genre of game you may want to start off on recruit difficulty.  
 
 You will then be greeted by the mission briefing screen, this screen shows up before every mission and gives you 
 the context for what you're doing and providing the objectives you will need to complete. Pay attention in 
 this section as special requirements for the mission may be mentioned such as needing anti-tank rockets or demolition charges.
-<br>
 
+<br>
 ### Platoon Setup {#pSetup}
 <p align="center">
 	<img src="../images/grsquadsetup.png" alt="Image highlighting each section of the platoon set up page" width=750>
@@ -60,24 +60,20 @@ do not have any effect on gameplay.
 5. Stats of the currently selected unit, after completing a mission all surviving units are given a combat point that can 
 then be put into any one of these stats.
     - Weapon: Effects how fast the weapon crosshair converges when controlling this unit.
-	<br>
 	- Stealth: Effects how close the unit can get to enemies before being detected.
-	<br>
 	- Endurance: Effects the number of wounds the unit can take before being injured or killed.
-	<br>
 	- Leadership: Every three points of leadership causes a single increase in all stat points for members of the units team.
 	(However this only occurs once per team based on the unit with the highest leadership.)
-	<br>
 	
 
 6. Kit selection, using the arrows you navigate the selected units loadout, this includes selecting equipment that may be required for a mission such as anti-tank rockets or demolition charges.  
 
 Once you have created a platoon pressing the arrow in the bottom right will start the mission.
-<br>
 
+<br>
 ### In Game Heads Up Display {#HUD}
 <p align="center">
-	<img src="../images/gringame2.png" alt="Image showing heads up dispaly in game" width=1000>
+	<img src="../images/gringame2.png" alt="Image showing heads up display in game" width=1000>
 </p>
 Loading into the mission you will be presented with your heads up display (HUD) with information about the current unit you 
 are controlling.  
@@ -90,8 +86,8 @@ indicates the direction of further away enemies by lighting up yellow, and the i
 are enemies nearby.  
 4. In the bottom right is the weapons the current unit has, with the one equipped being lit up and the fire 
 mode (depending on weapon can be semi, burst, or full auto) is displayed in the vertical bar to the right of the weapons. 
-<br>
 
+<br>
 ### In Game Menus {#menus}
 <p float="center">
 	<img src="../images/grstats.png" alt="Menu displaying the status of each unit" width="475">
@@ -106,8 +102,8 @@ are controlling is highlighted green and at the top of the map the squad you are
 
 In order to give instructions to a team click on the letter corresponding to them on the left side of 
 the map, and then select where you would like for them to move. 
-<br>
 
+<br>
 ### Command Menu Options {#cmenu}
 <p align="center">
 	<img src="../images/grroemove1.png" alt="Command map depicting each type of movement command and rule of engagement" width=1000>
@@ -132,8 +128,8 @@ And for rules of engagement the options are:
 Enemies that have been spotted by a friendly unit will show up on the command map as a bright red diamond, but if not seen 
 recently will fade away until seen again. This goes for any unit in your platoon, not just the one you control so it is 
 helpful to alway look at the command map to locate enemy positions. 
-<br>
 
+<br>
 ### Pause Menu {#pause}
 <p align="center">
 	<img src="../images/grpause1.png" alt="Pause menu with objectives" width=1000>

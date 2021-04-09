@@ -22,11 +22,11 @@ advantageous positions. This is not a game you can speed through and it pays to 
 
 #### Q: How should I stop my team members from getting killed?
 - By making use of the quick save and quick load keys (F5 and F7) you can save before making choices that may cost you or your units. Be
-careful using of using quick save at the wrong time as you may get caught loading into unfavorable situtaions where the only way out is restarting
+careful using of using quick save at the wrong time as you may get caught loading into unfavorable situations where the only way out is restarting
 the mission from the beginning.
 
 #### Q: I beat the last mission, is there any more?
-- There are 2 DLCs for the game which can be purchased aswell as the multiplayer mode which comes witht the base game. There are also free mods for the game that greatly 
+- There are 2 DLCs for the game which can be purchased as well as the multiplayer mode which comes with the base game. There are also free mods for the game that greatly 
 expand on it such as Heroes Unleashed.
 
 # Support 
