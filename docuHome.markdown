@@ -20,7 +20,7 @@ strategies attempt to defeat the enemy forces and accomplish other objectives. T
 to give you a brief introduction to the campaign mode of the game and some of its systems so that 
 you may be able to understand it.
 
-# Installation
+### Installation
 Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.  
 After selecting your preferred retailer purchase the game, currently priced at $9.99. You may want to
 watch out for Ubisoft sale events where the game may receive a discounted price.
