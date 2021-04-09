@@ -31,3 +31,7 @@ expand the game such as Heroes Unleashed.
 
 # Support 
 For additional help consult the game manual located [here](https://cdn.cloudflare.steamstatic.com/steam/apps/15300/manuals/manual_english.pdf?t=1447351361).
+
+## Licensing
+© 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
+is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.

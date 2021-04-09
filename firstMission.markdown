@@ -9,12 +9,12 @@ permalink: "/mission/"
 	<a href="../getting_started">Getting Started</a>
 	<a href="../mission" class="cur">First Mission</a>
 		<ul>
-			<a href="#mBrief">Mission Briefing</a>
-			<a href="#pSetup">Platoon Setup</a>
-			<a href="#HUD">In Game Heads Up Display</a>
-			<a href="#menus">In Game Menus</a>
-			<a href="#cmenu">Command Menu Options</a>
-			<a href="#pause">Pause Menu</a>
+			<li><a href="#mBrief">Mission Briefing</a></li>
+			<li><a href="#pSetup">Platoon Setup</a></li>
+			<li><a href="#HUD">In Game Heads Up Display</a></li>
+			<li><a href="#menus">In Game Menus</a></li>
+			<li><a href="#cmenu">Command Menu Options</a></li>
+			<li><a href="#pause">Pause Menu</a></li>
 		</ul>
 	<a href="../faq">FAQ and Support</a>
 </div>
@@ -118,9 +118,13 @@ Enemies that have been spotted by a friendly unit will show up on the command ma
 recently will fade away until seen again. This goes for any unit in your platoon, not just the one you control so it is 
 helpful to alway look at the command map to locate enemy positions. 
 
-### Pause Menu {pause}
+### Pause Menu {#pause}
 <p align="center">
 	<img src="../images/grpause1.png" alt="Pause menu with objectives" width=1000>
 </p>
 If you ever need to remember what objectives you need to complete you can press the escape key to pause the game and view them, 
 from this menu you may also save the game, change options, or restart/exit the mission.
+
+## Licensing
+© 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
+is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
