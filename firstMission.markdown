@@ -5,12 +5,16 @@ permalink: "/mission/"
 ---
 <link href="../style.css" rel="stylesheet">
 <div id="sideBar" class="sidenav">
-	<a href="../home" class="cur">Home</a>
+	<a href="../home">Home</a>
 	<a href="../getting_started">Getting Started</a>
-	<a href="../mission">First Mission</a>
+	<a href="../mission" class="cur">First Mission</a>
 		<ul>
 			<a href="#mBrief">Mission Briefing</a>
 			<a href="#pSetup">Platoon Setup</a>
+			<a href="#HUD">In Game Heads Up Display</a>
+			<a href="#menus">In Game Menus</a>
+			<a href="#cmenu">Command Menu Options</a>
+			<a href="#pause">Pause Menu</a>
 		</ul>
 	<a href="../faq">FAQ and Support</a>
 </div>
@@ -27,7 +31,7 @@ will then be greeted by the mission briefing screen, this screen shows up before
 the context for what you are doing and providing the objectives you will need to complete. Pay attention in 
 this section as special requirements for the mission may be mentioned such as needing anti-tank rockets or demolition charges.
 
-### Platoon Setup {#mBrief}
+### Platoon Setup {#pSetup}
 <p align="center">
 	<img src="../images/grsquadsetup.png" alt="Image highlighting each section of the platoon set up page" width=750>
 </p>
@@ -63,7 +67,7 @@ then be put into any one of these stats.
 
 Once you have created a platoon pressing the error in the bottom right will start the mission.
 
-### In Game Heads Up Display
+### In Game Heads Up Display {#HUD}
 <p align="center">
 	<img src="../images/gringame1.png" alt="Image showing heads up dispaly in game" width=1000>
 </p>
@@ -76,7 +80,7 @@ indicates the direction of further away enemies by lighting up yellow, and the i
 are enemies nearby. In the bottom right is the weapons the current unit has, with the one equipped being lit up and the fire 
 mode (depending on weapon can be semi, burst, or full auto) is displayed in the vertical bar to the right of the weapons. 
 
-### In Game Menus
+### In Game Menus {#menus}
 <p float="center">
 	<img src="../images/grstats.png" alt="Menu displaying the status of each unit" width="475">
 	<img src="../images/grcmdmap.png" alt="Map of the play area, with location of each unit and objective" width="475">
@@ -90,7 +94,7 @@ are controlling is highlighted green and at the top of the map the squad you are
 highlighted, in order to give instructions to a team click on the letter corresponding to them on the left side of 
 the map, and then select where you would like for them to move. 
 
-### Command Menu Options
+### Command Menu Options {#cmenu}
 <p align="center">
 	<img src="../images/grroemove1.png" alt="Command map depicting each type of movement command and rule of engagement" width=1000>
 </p>
@@ -114,7 +118,7 @@ Enemies that have been spotted by a friendly unit will show up on the command ma
 recently will fade away until seen again. This goes for any unit in your platoon, not just the one you control so it is 
 helpful to alway look at the command map to locate enemy positions. 
 
-### Pause Menu
+### Pause Menu {pause}
 <p align="center">
 	<img src="../images/grpause1.png" alt="Pause menu with objectives" width=1000>
 </p>
