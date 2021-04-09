@@ -5,6 +5,10 @@ permalink: "/home/"
 ---
 <link href="../style.css" rel="stylesheet">
 <div id="sideBar" class="sidenav">
+	<p align="center">
+		<img src="../images/ghostreconlogo.png" alt="Ghost Recon logo">
+	</p>
+	<h1><u>Navigation</u></h1>
 	<a href="../home" class="cur">Introduction</a>
 	<a href="../getting_started">Getting Started</a>
 	<a href="../mission">First Mission</a>
@@ -25,7 +29,7 @@ Tom Clancy's Ghost Recon is available on both Good Old Games and Steam.
 After selecting your preferred retailer purchase the game, currently priced at $9.99. You may want to
 watch out for Ubisoft sale events where the game may receive a discounted price.
 ### Requirements
-Windows Operating System  
+Windows Operating System 2000/XP and later
 128 MB of Memory  
 1 GB Hard Drive Space  
 
