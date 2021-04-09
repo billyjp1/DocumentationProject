@@ -4,7 +4,7 @@ title: Documentation Project
 permalink: "/getting_started/"
 ---
 <link href="../style.css" rel="stylesheet">
-<div id="sideBar" class="sidenav
+<div id="sideBar" class="sidenav">
 	<p align="center">
 		<img src="../images/ghostreconlogo.png" alt="Ghost Recon logo">
 	</p>

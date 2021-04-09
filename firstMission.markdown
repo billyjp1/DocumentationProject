@@ -112,16 +112,16 @@ the map, and then select where you would like for them to move.
 <p align="center">
 	<img src="../images/grroemove1.png" alt="Command map depicting each type of movement command and rule of engagement" width=1000>
 </p>
-In  addition to selecting where you want units to move you can also select the manner in which they do so. Next to each squad's 
+You can choose how you want your units to move using the movement and rules of engagement options. Next to each squad's 
 corresponding letter on the left are 2 additional icons, the top one represents movement and the bottom represents rules of 
 engagement, with 3 options for each.  
 
-For movement these options are:
+Your movement options are:
 1. Double green arrow: advance at all costs, will move even when under fire from enemies.
 2. Single yellow arrow: normal advance, will move but will stop once coming under fire.
 3. Red X: hold position, will stop currently planned movement and stay still until changed to another type of movement. 
 
-And for rules of engagement the options are:  
+And your options for rules of engagement are:  
 1. Suppress: squad will shoot if they think enemies are nearby, lots of fire but not accurate.
 2. Assault: squad will shoot at any enemies they see.
 3. Recon: squad will not shoot at enemies unless they are fired upon first.

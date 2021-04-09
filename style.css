@@ -13,7 +13,6 @@ body {
 	left: 0;
 	background-color: black;
 	overflow-x: hidden; 
-	padding-top: 60px;
 }
 
 .sidenav a {
@@ -31,6 +30,10 @@ a.cur {
 
 .sidenav li a {
 	font-size: 18px;
+}
+
+.sidenav h1 {
+	font-size: 32px;
 }
 
 h1 {
