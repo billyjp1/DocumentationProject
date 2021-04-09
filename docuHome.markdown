@@ -10,6 +10,7 @@ permalink: "/home/"
 	<a href="../mission">First Mission</a>
 	<a href="../faq">FAQ and Support</a>
 </div>
+<div class="main">
 # Introduction
 Tom Clancy's Ghost Recon is a tactical first person shooter game released in 2001 by developer 
 Red Storm Entertainment. In each mission you create your squad of 6 soldiers and using cunning 
@@ -165,3 +166,4 @@ For additional help consult the game manual located [here](https://cdn.cloudflar
 ## Licensing
 © 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
 is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
+</div>

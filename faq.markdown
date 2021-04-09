@@ -11,7 +11,7 @@ permalink: "/faq/"
 	<a href="../mission">First Mission</a>
 	<a href="../faq" class="cur">FAQ and Support</a>
 </div>
-
+<div class="main">
 # Frequently Asked Questions
 #### Q: Why does my screen get really small when launching the game?
 - The game launches in a fixed resolution so will be to small for most modern day monitors, however this is fixed once you're actually in game
@@ -32,6 +32,8 @@ expand the game such as Heroes Unleashed.
 # Support 
 For additional help consult the game manual located [here](https://cdn.cloudflare.steamstatic.com/steam/apps/15300/manuals/manual_english.pdf?t=1447351361).
 
+<br>
 ## Licensing
 © 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
 is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
+</div>

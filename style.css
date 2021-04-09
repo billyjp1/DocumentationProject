@@ -23,10 +23,14 @@ a.cur {
 	color: #b5e853;
 }
 
-li {
+sidenav li a {
 	font-size: 18px;
 }
 
 header {
+	margin-left: 270px;
+}
+
+.main {
 	margin-left: 270px;
 }

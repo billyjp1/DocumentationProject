@@ -18,6 +18,7 @@ permalink: "/mission/"
 		</ul>
 	<a href="../faq">FAQ and Support</a>
 </div>
+<div class="main">
 # Playing your First Mission
 
 ### Mission Briefing {#mBrief}
@@ -125,6 +126,8 @@ helpful to alway look at the command map to locate enemy positions.
 If you ever need to remember what objectives you need to complete you can press the escape key to pause the game and view them, 
 from this menu you may also save the game, change options, or restart/exit the mission.
 
+<br>
 ## Licensing
 © 2001 Red Storm Entertainment, Inc. Red Storm and Red Storm Entertainment are trademarks of Red Storm Entertainment, Inc. Red Storm Entertainment, Inc. 
 is a Ubi Soft Entertainment company. All Rights Reserved. Tom Clancy's Ghost Recon is a trademark of Rubicon, Inc. under license to Ubisoft Entertainment.
+</div>
